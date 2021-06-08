@@ -9,3 +9,6 @@ JSON 데이터를 관개할 때에 AXIOS를 사용하였습니다.
 
 ## 차후
 React 나 Vue를 공부하여 번듯하게 만들어야겠습니다.
+
+## URL
+[netlify](https://cocky-lovelace-51889d.netlify.app/)
